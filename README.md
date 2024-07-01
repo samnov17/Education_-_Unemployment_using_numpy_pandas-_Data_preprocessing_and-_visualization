@@ -1,3 +1,5 @@
+its written in Interactive Python Notebook (.ipynb)
+
 Read the Final.ipynb for a comprehensive explanation.
 
 This project was completed in 2022 as part of a master's program in Embedded and Intelligent Systems.
