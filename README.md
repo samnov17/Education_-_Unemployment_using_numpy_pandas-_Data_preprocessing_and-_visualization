@@ -1,4 +1,4 @@
-its written in Interactive Python Notebook (.ipynb)
+It's written in Interactive Python Notebook (.ipynb)
 
 Read the Final.ipynb for a comprehensive explanation.
 
