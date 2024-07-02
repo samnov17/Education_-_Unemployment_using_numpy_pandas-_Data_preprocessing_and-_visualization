@@ -8,11 +8,11 @@ Data Processing and Analysis Project
    
     This Jupyter notebook helped me to apply my knowledge of Python, including Pandas and NumPy, to explore questions of social relevance. For the project, I had to select datasets based on the following topics:
 
-a) Climate change and its consequences
-b) Health care and its consequences
-c) Education and its consequences
+    a) Climate change and its consequences
+    b) Health care and its consequences
+    c) Education and its consequences
 
-  I had to combine multiple such datasets, extract some information from them, and visualize my findings.
+      I had to combine multiple such datasets, extract some information from them, and visualize my findings.
 
 3. Key Features
   Data Loading and Exploration: The notebook includes code for loading, exploring, and cleaning the data.
