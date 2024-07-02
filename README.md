@@ -2,11 +2,11 @@ Data Processing and Analysis Project
 
 1. Overview
 
-  This project was completed in 2022 as part of a master's program in Embedded and Intelligent Systems. It provides a good demonstration of using NumPy and Pandas libraries for data processing and showcases how to display data in a meaningful manner.
+    This project was completed in 2022 as part of a master's program in Embedded and Intelligent Systems. It provides a good demonstration of using NumPy and Pandas libraries for data processing and showcases how to display data in a meaningful manner.
 
 2. Introduction
    
-  This Jupyter notebook helped me to apply my knowledge of Python, including Pandas and NumPy, to explore questions of social relevance. For the project, I had to select datasets based on the following topics:
+    This Jupyter notebook helped me to apply my knowledge of Python, including Pandas and NumPy, to explore questions of social relevance. For the project, I had to select datasets based on the following topics:
 
 a) Climate change and its consequences
 b) Health care and its consequences
