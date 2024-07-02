@@ -20,5 +20,4 @@ Data Processing and Analysis Project
   Data Visualization: Showcases techniques for meaningful data visualization.
   
 4. Files
-   
   Final.ipynb: The main file containing all the code and explanations.
