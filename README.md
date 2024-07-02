@@ -15,7 +15,6 @@ Data Processing and Analysis Project
       I had to combine multiple such datasets, extract some information from them, and visualize my findings.
 
 3. Key Features
-   
   Data Loading and Exploration: The notebook includes code for loading, exploring, and cleaning the data.
   Data Processing: Demonstrates the use of NumPy and Pandas for efficient data processing.
   Data Visualization: Showcases techniques for meaningful data visualization.
